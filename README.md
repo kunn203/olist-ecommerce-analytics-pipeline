@@ -199,4 +199,3 @@ Sau khi nạp dữ liệu thành công, thực thi tiếp 2 file sau trong SSMS:
 
 ## Tác giả (Author)
 - Dự án Phân tích Dữ liệu Thương mại Điện tử Olist (Brazilian E-Commerce).
-- Đóng góp, thắc mắc hoặc phản hồi vui lòng tạo Issue hoặc Pull Request trên repository.
